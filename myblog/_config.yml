@@ -12,3 +12,4 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+sass_dir: css/_sass
