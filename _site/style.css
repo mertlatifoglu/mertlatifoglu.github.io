@@ -1,0 +1,106 @@
+.title {
+	margin: 1em 0 0.5em 0;
+    color: #343434;
+    font-weight: normal;
+    font-family: 'Ultra', sans-serif;   
+    font-size: 16px;
+    line-height: 42px;
+    text-transform: uppercase;
+    text-shadow: 0 2px white, 0 3px #777;
+    text-align: center;
+}
+
+.ideas {
+	font-style: verdana;
+	font-size: 12pt;
+	margin-left: 20px;
+}
+
+body {
+	
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+.header {
+	background-color: #f3f3f3;
+	background-repeat: horizontal;
+	min-height: 50px;
+	
+	border-bottom: 5px solid black;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-top: 0px;
+
+}
+
+.nav {
+	font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+	float: left;
+	list-style-type: none;
+	list-style-position: initial;
+	padding-right: 10px;
+}
+
+li {
+	display: inline;
+	padding-right: 10px;
+}
+
+/* unvisited link */
+a:link {
+    color: #424242;
+    font-size: 18pt;
+}
+
+/* visited link */
+a:visited {
+    color: #424242;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+a.123 {
+	width: 15px;
+	height: 15px;
+	border-radius: 15px;
+	background-color: black;
+}
+
+.batman {
+	float: right;
+}
+
+.motto {
+	float: left;
+}
